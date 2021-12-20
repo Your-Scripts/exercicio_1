@@ -1,4 +1,3 @@
-// Joใo Gabriel | a23013
 #include <stdio.h>
 #include <locale.h>
 
@@ -12,14 +11,14 @@ void Troca(int *i, int *j){
 int main() {
 	int a;
 	int b;
-	printf("Introduza o valor do 1บ: ");
+	printf("Introduza o valor do 1ยบ: ");
 	scanf("%d",&a);
 	fflush(stdin);
    
-	printf("Introduza o valor do 2บ: ");
+	printf("Introduza o valor do 2ยบ: ");
 	scanf("%d",&b);
 	
 	Troca(&a ,&b);
-	printf("Valor do 1บ: %d \n", a);
-	printf("Valor do 2บ: %d \n", b);
+	printf("Valor do 1ยบ: %d \n", a);
+	printf("Valor do 2ยบ: %d \n", b);
 }
