@@ -1,4 +1,4 @@
 # exercicio_1
-Exercício 1c/ Apontador
+exercício nº1 c/Apontadores| TII | Programação Imperativa
 
 Primeiro exercício criado, a usar apontadores
